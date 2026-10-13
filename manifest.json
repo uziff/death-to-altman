@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "ChatGPT Auto Prompter",
+  "version": "1.0",
+  "description": "said method 2",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["*://chatgpt.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
