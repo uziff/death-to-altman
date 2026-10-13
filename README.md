@@ -14,4 +14,4 @@ Installation is very simple.<br>
 3. open https://chatgpt.com/ (make sure you're already logged in).
 
 <br><br><br><br><br><br>
--# Ironically, made with Gemini lol
+_Ironically, made with Gemini lol_
