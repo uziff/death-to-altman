@@ -12,3 +12,6 @@ Installation is very simple.<br>
 1. [Download the source code](https://github.com/uziff/death-to-altman/archive/refs/heads/main.zip) for this repo and unzip it on your computer.<br>
 2. After you unzip it, install it as a custoom chrome extension following [this tutorial](https://youtu.be/ptkwdCq_DYw?si=pxeeUS0W88r6jcIE&t=90)
 3. open https://chatgpt.com/ (make sure you're already logged in).
+
+<br><br><br><br><br><br>
+-# Ironically, made with Gemini lol
